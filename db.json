@@ -1,0 +1,13 @@
+{
+  "Employee": [
+    {
+      "name": "sumi",
+      "gender": "female",
+      "department": "hr",
+      "role": "hr",
+      "salary": "1200",
+      "status": false,
+      "id": 1
+    }
+  ]
+}
